@@ -28,7 +28,7 @@ My social media accounts
     <img src="https://cdn.discordapp.com/attachments/833038907637104650/837656167512539167/c8952d6e421a83d298a219edee783167-removebg-preview.png" width="48"></img>
   </a>
   
-   <a href="https://discord.gg/85C67G3r/">
+   <a href="https://discord.gg/85C67G3r">
     <img src="https://cdn.discordapp.com/attachments/833038907637104650/837661061044764722/discord-logo-logodownload-download-logotipos-1.png" width="48"></img>
   </a>
 </span>
