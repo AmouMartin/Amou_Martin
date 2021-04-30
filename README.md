@@ -3,7 +3,7 @@
   AmouMartin
 </h1>
 <hr> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AmouMartin&theme=tokyonight&show_icons=true" />
+
 <h3 align="left">
 I am who ?
 </h3>
@@ -20,6 +20,9 @@ My social media accounts
 <a href="https://open.spotify.com/user/31h49474w2wwrw7co073rnx20" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/xd__ninguem/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/AmouMartin" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.twitch.tv/amou_martin" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
+
+
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Stat's [Click Please]</summary>
