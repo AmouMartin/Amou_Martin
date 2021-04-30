@@ -3,7 +3,7 @@
   AmouMartin
 </h1>
 <hr> 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AmouMartin&theme=tokyonight&show_icons=true" />
 <h3 align="left">
 I am who ?
 </h3>
