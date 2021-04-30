@@ -20,3 +20,10 @@ My social media accounts
 <a href="https://open.spotify.com/user/31h49474w2wwrw7co073rnx20" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/xd__ninguem/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/AmouMartin" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Stat's</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=AmouMartin&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmouMartin&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmouMartin&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
