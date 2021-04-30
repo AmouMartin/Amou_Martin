@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#fff">
-  Amou_Martin
+  AmouMartin
 </h1>
 <hr> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AmouMartin&theme=tokyonight&show_icons=true" />
