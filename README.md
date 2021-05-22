@@ -23,6 +23,12 @@ My social media accounts
  <a href="https://www.twitch.tv/amou_martin" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
 
 
+  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31h49474w2wwrw7co073rnx20)
+
+  <p align="center">
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/721107946171269197.png"></div>
+  
+
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Stat's [Click Please]</summary>
