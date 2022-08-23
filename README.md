@@ -19,13 +19,11 @@ My social media accounts
 
 
   <p align="center">
-  <div align="center"><img src="[https://discord.c99.nl/widget/theme-2/942414207150874725.png](https://discord.c99.nl/widget/theme-1/942414207150874725.png)"></div>
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-1/942414207150874725.png"></div>
   
 
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Stat's [Click Please]</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=AmouMartin&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmouMartin&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=AmouMartin&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
