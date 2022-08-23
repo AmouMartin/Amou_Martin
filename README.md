@@ -18,10 +18,8 @@ My social media accounts
 <a href="https://discord.com/users/721107946171269197" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31h49474w2wwrw7co073rnx20)
-
   <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/942414207150874725.png"></div>
+  <div align="center"><img src="[https://discord.c99.nl/widget/theme-2/942414207150874725.png](https://discord.c99.nl/widget/theme-1/942414207150874725.png)"></div>
   
 
 
